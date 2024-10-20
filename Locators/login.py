@@ -1,0 +1,7 @@
+url = 'https://practice.expandtesting.com'
+txtusername = 'id=username'
+txtpassword = 'id=password'
+username = 'practice'
+password = 'SuperSecretPassword!'
+btnLogin = '//button[@type="submit"]'
+lnkLogout = '//i[contains(@class,"signout")]'
